@@ -13,7 +13,7 @@ for x in range(1):
     print(" {0}             {1}           {2}".format(
         num3, num3**2, num3**3
     ))
-#edited Second
+#edited third
 
 
 
